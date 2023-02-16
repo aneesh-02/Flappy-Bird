@@ -1,5 +1,5 @@
 # Flappy Bird Clone
-This is a clone of the popular game Flappy Bird, implemented in JavaScript using the HTML5 canvas.
+This is a clone of the popular game Flappy Bird, implemented in JavaScript using the HTML5 canvas. <br>
 This project is live here: [Flappy-Bird](https://aneesh-02.github.io/Flappy-Bird/)
 
 ## How to Play
